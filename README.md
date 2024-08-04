@@ -12,7 +12,7 @@
 This application, developed with PyQT, Sci-Kit Learn, and Matplotlib, analyzes raw gaze data output from Gazepoint eye-tracking software. It is a prototype and currently under development.<!-- GETTING STARTED -->
 ## Getting Started
 
-Welcome to GAZE! This guide provides detailed steps to set up the environment and install this project on your local computer.
+Welcome to GAZE (gaze-analysis-zonal-evaluation)! This guide provides detailed steps to set up the environment and install this project on your local computer.
 
 ### Prerequisites
 
@@ -22,13 +22,13 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
-Clone the repository > DRJS
+Clone the repository > 
 
   ```bash
-  git clone https://github.com/p-gatsby/GAZE.git
+  git clone https://github.com/p-gatsby/gaze-analysis-zonal-evaluation.git
   ```
 
-Packages installation ~ > GAZE
+Packages installation ~ > gaze-analysis-zonal-evaluation
 
 - Install virtual environment:
 
